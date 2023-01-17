@@ -1,5 +1,3 @@
-package com;
-
 import lombok.AllArgsConstructor;
 import lombok.Data;
 
